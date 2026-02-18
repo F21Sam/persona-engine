@@ -198,7 +198,4 @@ Projet réalisé dans le cadre du module :
 
 Projet académique 2MCSI ESGI – 2026
 
-```
-
-
 
